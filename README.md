@@ -7,3 +7,8 @@ Quizzler is a Flutter-based quiz application that provides a fun way to test you
 - User-friendly interface
 - Score tracking
 - Educational and entertaining
+
+## GIF
+
+![quizzler](https://github.com/YashM021/Dicee/assets/156659124/87fa1b51-9eb2-42b8-9ad2-a2e38f2a1c4d)
+
